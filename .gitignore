@@ -1,0 +1,34 @@
+# Secrets
+settings.cfg
+*token*
+*password*
+
+# Downloader clone (separate project, see README)
+/downloader/
+
+# Working data
+/work/
+/diag/
+out*/
+md5sum.txt
+
+# Databases and downloaded media
+*.crypt14
+*.crypt15
+*.db
+*.tsv
+missing.txt
+*-sizes.txt
+/drive/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.opus
+*.m4a
+*.mp3
+*.pdf
+*.webp
+*.gif
+*.3gp
+
